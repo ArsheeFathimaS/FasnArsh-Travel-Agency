@@ -45,19 +45,13 @@ A full-featured travel booking website built with **PHP**, **MySQL**, and **XAMP
 
 ---
 
-## 🔗 Live Demo
-
-<https://arsheefathimas.github.io/FasnArsh-Travel-Agency>
-
----
-
 ## 📸 Screenshots
 
 > **Note**: Place the images inside a folder called `screenshots/` (or update the paths).
 
 | Home Page | About Us | Hotel Booking |
 |-----------|----------|---------------|
-| ![Home](screenshots/home.png) | ![About](screenshots/about.png) | ![Hotel Booking](screenshots/hotel_booking.png) |
+| ![Home](C:\Users\Arshee Fathima\OneDrive\Pictures\Screenshots\home.png) | ![About](C:\Users\Arshee Fathima\OneDrive\Pictures\Screenshots\about.png) | ![Hotel Booking](C:\Users\Arshee Fathima\OneDrive\Pictures\Screenshots\hotel_booking.png) |
 
 ---
 
