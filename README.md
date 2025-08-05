@@ -51,7 +51,7 @@ A full-featured travel booking website built with **PHP**, **MySQL**, and **XAMP
 
 | Home Page | About Us | Hotel Booking |
 |-----------|----------|---------------|
-| ![Home](C:\Users\Arshee Fathima\OneDrive\Pictures\Screenshots\home.png) | ![About](C:\Users\Arshee Fathima\OneDrive\Pictures\Screenshots\about.png) | ![Hotel Booking](C:\Users\Arshee Fathima\OneDrive\Pictures\Screenshots\hotel_booking.png) |
+| ![Home](screenshots\home.png) | ![About](screenshots\about.png) | ![Hotel Booking](screenshots\hotel_booking.png) |
 
 ---
 
