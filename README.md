@@ -47,11 +47,11 @@ A full-featured travel booking website built with **PHP**, **MySQL**, and **XAMP
 
 ## 📸 Screenshots
 
-> **Note**: Place the images inside a folder called `screenshots/` (or update the paths).
+> **Note**: All screenshots are located in the `screenshots/` folder.
 
 | Home Page | About Us | Hotel Booking |
-|-----------|----------|---------------|
-| ![Home](screenshots\home.png) | ![About](screenshots\about.png) | ![Hotel Booking](screenshots\hotel_booking.png) |
+|-----------|----------|----------------|
+| ![Home](screenshots/home.png) | ![About](screenshots/about.png) | ![Hotel Booking](screenshots/hotel_booking.png) |
 
 ---
 
